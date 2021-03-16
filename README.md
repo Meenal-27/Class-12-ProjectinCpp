@@ -5,8 +5,8 @@ It provides the user with the option to access and/or delete the details of any 
 Every member and book has been provided with a special identification number in order to protect the privacy of each entity during borrowing and returning process.
 In our project, we use object oriented programming and have created two classes BOOK and MEMBER with following descriptions:
 
-BOOK : stores details of each book using 
-       data members:
+BOOK : stores details of each book using data members:
+
        1.bno: It stores the unique identification number of  the book.
        2.title: It stores name of the book.
        3.author: It stores the name of the author of the book.
